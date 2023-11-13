@@ -1,0 +1,4 @@
+e.env
+*.rex
+!print.rex
+
