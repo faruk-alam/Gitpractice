@@ -1,3 +1,2 @@
 this file should be hidden.
-text added from conflict resolve branch.
-
+This branch is ready for merging
